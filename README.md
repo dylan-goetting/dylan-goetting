@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dylan-goetting
-- 👀 I’m interested in machine learning, product design and fintech
+- 👀 I’m interested in machine learning and product development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me dylangoetting@berkeley.edu
