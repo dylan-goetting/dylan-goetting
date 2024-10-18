@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dylan-goetting
-- 👀 I’m interested in machine learning and quantitative finance
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me dylangoetting@berkeley.edu
+Hi, I’m @dylan-goetting. I am a masters student at UC Berkeley, advised by Jitendra Malik. 
+I'm interested in embodied robotics & AI
+Feel free to reach out to me at dylangoetting@berkeley.edu
+Currently looking for full-time 2025 robotics related role!
 
 <!---
 dylan-goetting/dylan-goetting is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
