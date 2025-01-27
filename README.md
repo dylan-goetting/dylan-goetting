@@ -1,4 +1,5 @@
 Hi, I’m @dylan-goetting. 
+- Learn more about my work at [dylan-goetting.github.io](dylan-goetting.github.io)
 - 📚 I am a masters student at UC Berkeley, advised by Jitendra Malik. 
 - 🤖 I'm interested in embodied robotics & AI
 - 📧 Feel free to reach out to me at dylangoetting@berkeley.edu
